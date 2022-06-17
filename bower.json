@@ -7,7 +7,7 @@
   "component" : "blank",
   "targetAttribute": "_blank",
   "displayName" : "Blank",
-  "description": "A simple adapt core contributed blank component",
+  "description": "Un componente en blanco simple",
   "main": "/js/adapt-contrib-blank.js",
   "keywords": [
     "adapt-plugin",
